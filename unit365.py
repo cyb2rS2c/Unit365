@@ -1,5 +1,4 @@
 import os
-import time
 from pynput import keyboard
 from threading import Timer, Lock
 
